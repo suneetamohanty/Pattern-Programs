@@ -1,0 +1,82 @@
+Q1. WAP to print the pattern using loops. *
+* *
+* * *
+* * * *
+* * * * *
+
+Q2. WAP to print the pattern using loops.
+ *
+ * *
+ * * *
+ * * * *
+ * * * * *
+ 
+Q3. WAP to print the pattern using loops.
+ *
+ * *
+ * * *
+ * * * *
+ * * * * *
+ 
+Q4. WAP to print the pattern using loops.
+1
+12
+123
+1234
+12345
+
+Q5. WAP to print the pattern using loops.
+54321
+ 4321
+ 321
+ 21
+ 1
+ 
+Q6. WAP to print the pattern using loops.
+ 1
+ 121
+ 12321
+ 1234321
+ 123454321
+ 
+Q7. WAP to print the pattern using loops.
+ 123454321
+ 1234321
+ 12321
+ 121
+ 1
+ 
+Q8. WAP to print the pattern using loops.
+ A 
+ AB
+ ABC
+ ABCD
+ ABCDE
+ 
+Q9. WAP to print the pattern using loops.
+1
+01
+1 0 1
+0 1 0 1
+1 0 1 0 1
+0 1 0 1 0 1
+
+Q10.WAP to print the pattern using loops.
+1
+12
+123
+1234
+12345
+1234
+123
+12
+1
+
+Q11.WAP to print the pattern using loops.
+A B C D E F G F E D C B A
+A B C D E F F E D C B A
+A B C D E E D C B A
+A B C D D C B A
+A B C C B A
+A B B A
+A A
